@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.formulaire {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulaire-block {
+    display: flex;
+
+}
+
+input {
+    width: 300px;
+    margin-right: 30px;
+}
+
+.textarea {
+    width: 450px;
+    height: 300px;
+}
